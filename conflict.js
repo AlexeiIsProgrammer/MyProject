@@ -1,1 +1,1 @@
-console.log('a conflict');
+console.log('real man c');
