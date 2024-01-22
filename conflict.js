@@ -1,1 +1,1 @@
-console.log('not a conflict');
+console.log('not');
